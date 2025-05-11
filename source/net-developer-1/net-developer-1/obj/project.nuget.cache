@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "HjAe3Ulke/k=",
+  "success": false,
+  "projectFilePath": "C:\\repos\\rnebular\\net-developer\\source\\net-developer-1\\net-developer-1\\net-developer-1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Amazon.Lambda.Core. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Amazon.Lambda.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Amazon.Lambda.Serialization.SystemTextJson. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Amazon.Lambda.Serialization.SystemTextJson",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Crossgen2.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Crossgen2.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

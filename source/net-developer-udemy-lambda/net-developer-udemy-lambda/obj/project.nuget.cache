@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pynxnLNE/ow=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\rnebular\\net-developer\\source\\net-developer-udemy-lambda\\net-developer-udemy-lambda\\net-developer-udemy-lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jon\\.nuget\\packages\\amazon.lambda.core\\2.5.1\\amazon.lambda.core.2.5.1.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.14\\microsoft.netcore.app.crossgen2.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

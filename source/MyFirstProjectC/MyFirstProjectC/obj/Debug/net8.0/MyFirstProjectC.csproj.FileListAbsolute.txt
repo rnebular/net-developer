@@ -1,0 +1,15 @@
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\bin\Debug\net8.0\MyFirstProjectC.exe
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\bin\Debug\net8.0\MyFirstProjectC.deps.json
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\bin\Debug\net8.0\MyFirstProjectC.runtimeconfig.json
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\bin\Debug\net8.0\MyFirstProjectC.dll
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\bin\Debug\net8.0\MyFirstProjectC.pdb
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.AssemblyInfoInputs.cache
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.AssemblyInfo.cs
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.csproj.CoreCompileInputs.cache
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.sourcelink.json
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.dll
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\refint\MyFirstProjectC.dll
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.pdb
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\MyFirstProjectC.genruntimeconfig.cache
+C:\repos\rnebular\net-developer\source\MyFirstProjectC\MyFirstProjectC\obj\Debug\net8.0\ref\MyFirstProjectC.dll

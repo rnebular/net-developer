@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\rnebular\\net-developer\\source\\MultiPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD862B7A-7EF0-436D-A209-173CDF5B3B61}|MultiPage\\MultiPage.csproj|c:\\repos\\rnebular\\net-developer\\source\\multipage\\multipage\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD862B7A-7EF0-436D-A209-173CDF5B3B61}|MultiPage\\MultiPage.csproj|solutionrelative:multipage\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD862B7A-7EF0-436D-A209-173CDF5B3B61}|MultiPage\\MultiPage.csproj|c:\\repos\\rnebular\\net-developer\\source\\multipage\\multipage\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD862B7A-7EF0-436D-A209-173CDF5B3B61}|MultiPage\\MultiPage.csproj|solutionrelative:multipage\\page2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page2.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\MultiPage\\MultiPage\\Page2.aspx",
+              "RelativeDocumentMoniker": "MultiPage\\Page2.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\MultiPage\\MultiPage\\Page2.aspx",
+              "RelativeToolTip": "MultiPage\\Page2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-11T22:20:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\MultiPage\\MultiPage\\index.aspx",
+              "RelativeDocumentMoniker": "MultiPage\\index.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\MultiPage\\MultiPage\\index.aspx",
+              "RelativeToolTip": "MultiPage\\index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-11T22:10:37.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.AssemblyInfoInputs.cache
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.AssemblyInfo.cs
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.csproj.CoreCompileInputs.cache
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.sourcelink.json
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\bin\Debug\net8.0\R53DynDNS.exe
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\bin\Debug\net8.0\R53DynDNS.deps.json
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\bin\Debug\net8.0\R53DynDNS.runtimeconfig.json
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\bin\Debug\net8.0\R53DynDNS.dll
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\bin\Debug\net8.0\R53DynDNS.pdb
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.dll
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\refint\R53DynDNS.dll
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.pdb
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\R53DynDNS.genruntimeconfig.cache
+C:\repos\rnebular\net-developer\source\R53DynDNS\R53DynDNS\obj\Debug\net8.0\ref\R53DynDNS.dll

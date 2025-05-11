@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "R53DynDNS/1.0.0": {
+        "runtime": {
+          "R53DynDNS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "R53DynDNS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
