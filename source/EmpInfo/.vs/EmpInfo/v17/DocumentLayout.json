@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\rnebular\\net-developer\\source\\EmpInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45C7D4F-E7DC-4D1E-B7EB-C7394C0C53DF}|EmpInfo\\EmpInfo.csproj|C:\\repos\\rnebular\\net-developer\\source\\EmpInfo\\empinfo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45C7D4F-E7DC-4D1E-B7EB-C7394C0C53DF}|EmpInfo\\EmpInfo.csproj|solutionrelative:empinfo\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\EmpInfo\\EmpInfo\\default.aspx.cs",
+              "RelativeDocumentMoniker": "EmpInfo\\default.aspx.cs",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\EmpInfo\\EmpInfo\\default.aspx.cs",
+              "RelativeToolTip": "EmpInfo\\default.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:18:43.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

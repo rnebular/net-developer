@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\rnebular\\net-developer\\source\\Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965F722E-222F-4439-8A98-4797F69D3079}|Validations\\Validations.csproj|c:\\repos\\rnebular\\net-developer\\source\\validations\\validations\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{965F722E-222F-4439-8A98-4797F69D3079}|Validations\\Validations.csproj|solutionrelative:validations\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965F722E-222F-4439-8A98-4797F69D3079}|Validations\\Validations.csproj|c:\\repos\\rnebular\\net-developer\\source\\validations\\validations\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{965F722E-222F-4439-8A98-4797F69D3079}|Validations\\Validations.csproj|solutionrelative:validations\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Validations\\Validations\\Web.config",
+              "RelativeDocumentMoniker": "Validations\\Web.config",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Validations\\Validations\\Web.config",
+              "RelativeToolTip": "Validations\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-17T20:30:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Validations\\Validations\\default.aspx",
+              "RelativeDocumentMoniker": "Validations\\default.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Validations\\Validations\\default.aspx",
+              "RelativeToolTip": "Validations\\default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T00:46:46.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|c:\\repos\\rnebular\\net-developer\\source\\patch manager\\patch manager\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|solutionrelative:patch manager\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\patch manager\\information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|solutionrelative:patch manager\\information.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\patch manager\\schedules.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|solutionrelative:patch manager\\schedules.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\patch manager\\database.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B9039059-96BA-4C8B-BB49-61A08D4B5D7A}|Patch Manager\\Patch Manager.csproj|solutionrelative:patch manager\\database.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\index.aspx",
+              "RelativeDocumentMoniker": "Patch Manager\\index.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\index.aspx",
+              "RelativeToolTip": "Patch Manager\\index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T04:56:51.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "database.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\database.aspx",
+              "RelativeDocumentMoniker": "Patch Manager\\database.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\database.aspx",
+              "RelativeToolTip": "Patch Manager\\database.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T05:01:53.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "schedules.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\schedules.aspx",
+              "RelativeDocumentMoniker": "Patch Manager\\schedules.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\schedules.aspx",
+              "RelativeToolTip": "Patch Manager\\schedules.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T05:01:20.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "information.aspx",
+              "DocumentMoniker": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\information.aspx",
+              "RelativeDocumentMoniker": "Patch Manager\\information.aspx",
+              "ToolTip": "C:\\repos\\rnebular\\net-developer\\source\\Patch Manager\\Patch Manager\\information.aspx",
+              "RelativeToolTip": "Patch Manager\\information.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T04:59:42.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
